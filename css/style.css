@@ -1,0 +1,20 @@
+.panda-bg-success{
+    background-color: #FEEAE9;
+}
+.text-danger-one{
+    color: #FF136F;
+    font-family: Poppins;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.btn-dark-one{
+    background-color: #FF589B;
+    color: whitesmoke;
+    font-weight: 700;
+}
+.btn-dark-one:hover{
+    background-color: #920940;
+    color: aliceblue;
+}
